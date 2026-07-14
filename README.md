@@ -58,23 +58,6 @@ A passionate developer dedicated to building elegant, efficient, and scalable di
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=KushGupta3808&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Kush's GitHub Stats" width="400px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushGupta3808&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="350px" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 💎 Featured Projects
 
 #### 📂 [Project Name One](https://github.com/KushGupta3808/your-repo-link)
